@@ -1,2 +1,4 @@
 # 2igang-med-github-jolita-darguzyte
-//PPPkL
+´´´javascript 
+console.log ('hej verden'); 
+´´´
