@@ -1,4 +1,4 @@
 # 2igang-med-github-jolita-darguzyte
-´´´javascript 
+```avascript 
 console.log ('hej verden'); 
-´´´
+```
